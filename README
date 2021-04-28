@@ -1,0 +1,1 @@
+run "g++ -c sim.cpp ; g++ sim.o -o sfml-app -lsfml-graphics -lsfml-window -lsfml-system ; ./sfml-app" for linux to run sim.cpp
